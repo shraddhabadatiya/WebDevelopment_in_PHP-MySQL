@@ -13,46 +13,61 @@ The internship was focused on full-stack web development using PHP, MySQL, HTML,
 
 ## ✅ Completed Tasks
 
-### 🧩 Task 1: Setting Up the Development Environment
+### 🧩 Task 1: Setting Up the Development Environment  
 **Timeline:** 3 Days
 
-- Installed and configured a local server environment using XAMPP/WAMP.
-- Installed Visual Studio Code and set up relevant PHP extensions.
-- Installed Git and initialized a GitHub repository.
+- Installed and configured a local server environment using XAMPP/WAMP.  
+- Installed Visual Studio Code and set up relevant PHP extensions.  
+- Installed Git and initialized a GitHub repository.  
 - Created a basic project structure and committed it to the repository.
 
 📂 **Deliverables:**
-- Working local development environment
+- Working local development environment  
 - Git repository with initial commit
 
 ---
 
-### 🧩 Task 5: Final Project and Certification
+### 🧩 Task 2: Blog Application with CRUD  
+**Timeline:** 6 Days
+
+- Developed a basic blog application using PHP and MySQL  
+- Implemented full CRUD functionality (Create, Read, Update, Delete)  
+- Integrated secure user login and registration using password hashing  
+- Managed blog posts and user data with MySQL  
+- Enhanced UI using custom CSS styling  
+
+📂 **Deliverables:**
+- Fully functional blog application with user authentication  
+- Code hosted on GitHub with structured commits  
+
+---
+
+### 🧩 Task 5: Final Project and Certification  
 **Timeline:** 12 Days
 
-- Integrated all core features:
-  - CRUD operations
-  - Search functionality
-  - Pagination
-  - User authentication
-  - Security enhancements
-- Conducted thorough **testing and debugging**:
-  - Functional testing
-  - Usability testing
-  - Security testing
+- Integrated all core features:  
+  - CRUD operations  
+  - Search functionality  
+  - Pagination  
+  - User authentication  
+  - Security enhancements  
+- Conducted thorough **testing and debugging**:  
+  - Functional testing  
+  - Usability testing  
+  - Security testing  
 - Fixed bugs and polished the application for final delivery.
 
 📂 **Deliverables:**
-- Fully functional, production-ready web application
+- Fully functional, production-ready web application  
 - Certificate of completion from ApexPlanet Software Pvt Ltd
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** PHP
-- **Database:** MySQL
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** PHP  
+- **Database:** MySQL  
 - **Tools:** VS Code, XAMPP/WAMP, Git, GitHub
 
 ---
@@ -74,4 +89,3 @@ Throughout this internship, I enhanced my understanding of web development funda
 Grateful to the mentors and team at **ApexPlanet** for their guidance, feedback, and support throughout this journey.
 
 ---
-
