@@ -42,6 +42,21 @@ The internship was focused on full-stack web development using PHP, MySQL, HTML,
 
 ---
 
+### 🧩 Task 3: Advanced User Authentication and Session Management  
+**Timeline:** 4 Days
+
+- Implemented session-based login system with proper session handling  
+- Created role-based access control (e.g., admin vs regular user)  
+- Added features like "Remember Me" and password reset using email token  
+- Ensured security measures like session timeout and CSRF protection  
+
+📂 **Deliverables:**
+- Enhanced authentication system with secure session handling  
+- Role-based dashboards with restricted access  
+- Source code versioned and pushed to GitHub  
+
+---
+
 ### 🧩 Task 5: Final Project and Certification  
 **Timeline:** 12 Days
 
@@ -87,5 +102,3 @@ Throughout this internship, I enhanced my understanding of web development funda
 ## 🙌 Acknowledgments
 
 Grateful to the mentors and team at **ApexPlanet** for their guidance, feedback, and support throughout this journey.
-
----
